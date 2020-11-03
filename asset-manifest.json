@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/resume-website/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/resume-website/static/js/main.75a55e78.chunk.js",
+    "main.js.map": "/resume-website/static/js/main.75a55e78.chunk.js.map",
+    "runtime-main.js": "/resume-website/static/js/runtime-main.139adadb.js",
+    "runtime-main.js.map": "/resume-website/static/js/runtime-main.139adadb.js.map",
+    "static/js/2.a58462ee.chunk.js": "/resume-website/static/js/2.a58462ee.chunk.js",
+    "static/js/2.a58462ee.chunk.js.map": "/resume-website/static/js/2.a58462ee.chunk.js.map",
+    "static/js/3.051eca4a.chunk.js": "/resume-website/static/js/3.051eca4a.chunk.js",
+    "static/js/3.051eca4a.chunk.js.map": "/resume-website/static/js/3.051eca4a.chunk.js.map",
+    "index.html": "/resume-website/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/resume-website/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.a58462ee.chunk.js.LICENSE.txt": "/resume-website/static/js/2.a58462ee.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/resume-website/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.139adadb.js",
+    "static/js/2.a58462ee.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.75a55e78.chunk.js"
+  ]
+}
