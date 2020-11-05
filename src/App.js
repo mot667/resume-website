@@ -51,12 +51,7 @@ function App() {
 
   return (
     
- 
-
-    <ThemeProvider theme={theme}>
-
-      <>
-        <GlobalStyles />
+    
         <div ref={node}>
   
           <FocusLock disabled={!open}>
@@ -601,9 +596,7 @@ function App() {
         </div>
         
         
-      </>
 
-    </ThemeProvider>
 
   );
 }
